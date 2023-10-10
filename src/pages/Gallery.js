@@ -1,9 +1,11 @@
 import React from "react";
 
+import Title from "../components/Title";
+
 const Gallery = () => {
   return (
-    <div class="">
-      <h1 class="text-center">Gallery</h1>
+    <div class="h-full">
+      <Title />
     </div>
   );
 };
